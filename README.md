@@ -13,7 +13,9 @@
 
 - 🤝 I’m looking for help with **open source contributor**
 
-- 📫 How to reach me **atanumajumder2004@gmail.com**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/atanu-majumder-169074220/">linkedin</a>
+
+- 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +32,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu0341&show_icons=true&locale=en" alt="atanu0341" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu0341&" alt="atanu0341" /></p>
+
+<!-- ![snake gif](https://github.com/Abirpal202049/Abirpal202049/blob/output/github-contribution-grid-snake.gif) -->
+<h2 align="center">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+</h2>
+![snake gif](https://github.com/Atanu0341/Atanu0341/blob/output/github-contribution-grid-snake.svg)
