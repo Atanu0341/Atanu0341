@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atanu10704224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atanu10704224" height="30" width="40" /></a>
-<a href="https://fb.com/@atanu.majumder.39566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@atanu.majumder.39566" height="30" width="40" /></a>
-<a href="https://instagram.com/@_atanumajumder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_atanumajumder_" height="30" width="40" /></a>
+<a href="https://fb.com/atanu.majumder.39566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@atanu.majumder.39566" height="30" width="40" /></a>
+<a href="https://instagram.com/_atanumajumder_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_atanumajumder_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
