@@ -26,4 +26,5 @@
 
 <a href = "https://www.linkedin.com/in/atanu-majumder-169074220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_atanumajumder_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/Atanu10704224"><img src="https://icons8.com/icon/ClbD5JTFM7FA/twitterx"/></a>
+<a href = "https://twitter.com/Atanu10704224"><img src="https://icons8.com/icon/ClbD5JTFM7FA/twitterx.png"/></a>
+</p>
