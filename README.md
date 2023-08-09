@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu0341&" alt="atanu0341" /></p>
 
 ## Connect With Me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/atanu-majumder-169074220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/_atanumajumder_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
