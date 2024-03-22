@@ -9,7 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atanu0341&theme=github_dark)
 ![](https://github-readme-stats.vercel.app/api?username=Atanu0341&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Atanu0341&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu0341&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Atanu0341&layout=compact&langs_count=10&&theme=react)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atanu0341&theme=radical&no-frame=false&no-bg=true&margin-w=4)
