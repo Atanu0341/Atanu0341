@@ -11,6 +11,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atanu0341&theme=github-dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Atanu0341&layout=compact&langs_count=10&&theme=react)
 
+## 🐦 Coding Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/atanumajumder2004)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atanu0341&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
