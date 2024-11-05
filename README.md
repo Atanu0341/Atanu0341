@@ -14,7 +14,8 @@
 ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Atanu0341&layout=compact&langs_count=10&&theme=react)
 
 ## 🐦 Coding Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/atanumajumder2004)
+![Leetcode Stats](https://leetcard.jacoblin.cool/atanumajumder2004) <br/>
+[![GeeksForGeeks](https://geeks-for-geeks-stats-card.vercel.app/?username=atanumajumder2004)](https://www.geeksforgeeks.org/user/atanumajumder2004/)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atanu0341&theme=radical&no-frame=false&no-bg=true&margin-w=4)
